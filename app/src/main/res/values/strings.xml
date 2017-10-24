@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Checkpoint2SQLite</string>
+    <string name="km">Kilomètre</string>
+    <string name="plate">Plaque d\'immatriculation</string>
+    <string name="name">Nom</string>
+    <string name="brand">Marque</string>
+    <string name="send">Envoyer</string>
+    <string name="see">Tout voir</string>
+</resources>
